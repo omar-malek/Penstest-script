@@ -1,2 +1,2 @@
 # penstest
-several tools to test IOt Gateway 
+several tools to test iot Gateways 
